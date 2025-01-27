@@ -1,1 +1,1 @@
-# checkpointmngdb
+# checkpointMdb
